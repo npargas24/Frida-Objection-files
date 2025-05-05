@@ -35,8 +35,11 @@ The emulator should close, upon restarting it should restart like normal. If the
 
  Run: adb shell 
 If it connects then it’s working. If it fails it’ll have a failure to connect error.
+
 Run: su
+
 Run: whoami
+
 Should return: root
 
 In another terminal run: 
