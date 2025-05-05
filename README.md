@@ -26,7 +26,9 @@ Open Emulator:
 
 Run in rootAVD directory (cd rootAVD):
 ./rootAVD.sh
+
 ./rootAVD.sh ListAllAVDs
+
 ./rootAVD.sh system-images/android-28/default/arm64-v8a/ramdisk.img
 
 The emulator should close, upon restarting it should restart like normal. If there’s a grey or black screen then it’s wrong.
